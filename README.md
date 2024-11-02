@@ -1,9 +1,9 @@
 # CODETECHITINTERNSHIP-TASK-2
-### NAME : SRINIVAS POTHARAJU
+### NAME : AAKIF AHMAD MIR
 ### COMPANY :CODETECH IT SOLUTIONS
-### ID:CT08DS3454
+### ID:CT08DS9504
 ### DOMAIN :MACHINE LEARNING
-### DURATION : JULY TO AUGUST 2024
+### DURATION : OCT TO NOV 2024
 ### MENTOR : Neela Santhosh Kumar 
 # Text-to-Speech Conversion Application
 
@@ -58,10 +58,4 @@ The primary objective of this project is to develop a web-based text-to-speech (
 
 ### d. Deployment
 - **Web Server/Cloud Platform**: Used to host and deploy the application, making it accessible to users online.
-
-## Getting Started
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/srinivas833/https://github.com/srinivas833/CODETECHITINTERNSHIP-TASK-2/tree/main.git
 
